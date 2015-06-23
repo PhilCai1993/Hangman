@@ -1,0 +1,6 @@
+source 'https://gitcafe.com/akuandev/Specs.git'
+pod 'AFNetworking','~> 2.5.0'
+pod 'Masonry', '~> 0.6.1'
+pod 'UIColor+MLPFlatColors', '~> 1.0'
+pod 'SVProgressHUD', '~> 1.1.3'
+#pod 'VVBlurPresentation', '~> 0.1.1'
